@@ -59,4 +59,5 @@ function draw(){
     log5.display();
 
     bird.display();
+    console.log("hehe hi hi hi")
 }
